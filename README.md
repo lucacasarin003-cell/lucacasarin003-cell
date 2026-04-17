@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Luca Casarin 👋
+## 🎓 Education
+- BSc in Mathematics  
+- MSc in Mathematical Engineering (ongoing), specialization in Mathematical Modelling 
+  
+## 🔍 About Me
+- Focused on **numerical analysis and differential equations**
+- Interested in **high-performance and engineering-oriented problem solving**
+- Building projects in **MATLAB and Python**
 
-<!--
-**lucacasarin003-cell/lucacasarin003-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- Numerical Methods  
+- System Identification   
 
-Here are some ideas to get you started:
+## 🚀 Goals
+- Apply numerical methods to real-world engineering problems  
+- Gain experience in research and high-level technical environments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/lucacasarin)
+- gmail:(luca.casarin.003@gmail.com)
